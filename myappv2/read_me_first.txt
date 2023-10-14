@@ -1,0 +1,1 @@
+update or add domain (like "localhost:8000") in settings.py in CORS_ALLOWED_ORIGINS first!
